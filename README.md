@@ -23,3 +23,6 @@ https://www.kaggle.com/datasets/datasnaek/youtube-new
 
 **Architecture Diagram**
 ![image](https://github.com/user-attachments/assets/c7c0d6c5-1df9-42ae-a69a-b7922193bc47)
+
+**Dashboard**
+![image](https://github.com/user-attachments/assets/2f530525-d09b-4850-afb8-c43964108da6)
